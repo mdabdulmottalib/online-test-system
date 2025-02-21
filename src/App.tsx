@@ -5,6 +5,7 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import ForgotPassword from './pages/ForgotPassword';
 import TwoFactorAuth from './pages/TwoFactorAuth';
+import SuccessPage from './components/SuccessPage';
 
 function App() {
   return (
